@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @shawon-mj
-- 👀 I’m interested in ...Ethical Hacking
+- 👀 I’m interested in ...Ethical Hacking for Cyber Security.
 - 🌱 I’m currently learning ...Advance Python and Pentesting
 - 💞️ I’m looking to collaborate on ...Comrade
 - 📫 How to reach me . 
